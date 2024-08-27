@@ -74,12 +74,14 @@ All projects in this repository are licensed under the [MIT License](https://ope
 If you have any questions, or suggestions, or need support, feel free to reach out to us:
 
 - **Email**: oss@dynatrisoft.com
-- **Twitter**: [@DynatriSoft](https://twitter.com/DynatriSoft)
-- **Instagram**: [@DynatriSoft](https://instagram.com/DynatriSoft)
-- **Facebook**: [@DynatriSoft](https://facebook.com/DynatriSoft)
-- **YouTube**: [@DynatriSoft](https://youtube.com/@DynatriSoft)
-- **LinkedIn**: [@DynatriSoft](https://linkedin.com/company/dynatrisoft)
-- **Discord**: [DynatriSoft]([link_to_discord](https://discord.gg/jssKjYrmAj))
+- **Twitter**: [@DynatriSoft](https://r.dynatrisoft.com/s/twitter)
+- **Instagram**: [@DynatriSoft](https://r.dynatrisoft.com/s/instagram)
+- **Facebook**: [@DynatriSoft](https://r.dynatrisoft.com/s/facebook)
+- **YouTube**: [@DynatriSoft](https://r.dynatrisoft.com/s/youtube)
+- **LinkedIn**: [@DynatriSoft](https://r.dynatrisoft.com/s/linkedin)
+- **Threads**: [@DynatriSoft](https://r.dynatrisoft.com/s/threads)
+- **TikTok**: [@DynatriSoft](https://r.dynatrisoft.com/s/tiktok)
+- **Discord**: [DynatriSoft](https://r.dynatrisoft.com/s/discord)
 
 ---
 
