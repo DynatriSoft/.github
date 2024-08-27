@@ -1,4 +1,4 @@
-# <img src="https://s3.dynatrisoft.com/assets/logo/red.png" alt="DynatriSoft Logo" width="40" height="40"> DynatriSoft Games - Open Source Projects
+# <img src="https://s3.dynatrisoft.com/assets/logo/red.png" alt="DynatriSoft Logo" width="32" height="32"> DynatriSoft Games - Open Source Projects
 
 Welcome to the official open-source project repository of **DynatriSoft Games**! 🚀
 
