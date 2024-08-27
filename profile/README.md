@@ -79,7 +79,7 @@ If you have any questions, or suggestions, or need support, feel free to reach o
 - **LinkedIn**: [@DynatriSoft](https://r.dynatrisoft.com/s/linkedin)
 - **Threads**: [@DynatriSoft](https://r.dynatrisoft.com/s/threads)
 - **TikTok**: [@DynatriSoft](https://r.dynatrisoft.com/s/tiktok)
-- **Discord**: [DynatriSoft](https://r.dynatrisoft.com/s/discord)
+- **Discord**: [@DynatriSoft](https://r.dynatrisoft.com/s/discord)
 
 ---
 
