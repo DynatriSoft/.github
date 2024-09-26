@@ -49,13 +49,13 @@ We encourage community contributions! If you want to collaborate on one of our p
 
 Our team will review your contribution, and if everything checks out, it will be merged into the project!
 
-> **Tip:** Check out our [Contribution Guide](./CONTRIBUTING.md) for more details on how to contribute successfully.
+> **Tip:** Check out our [Contribution Guide](../CONTRIBUTING.md) for more details on how to contribute successfully.
 
 ---
 
 ## 🌍 Code of Conduct
 
-All contributors and community members must follow our [Code of Conduct](./CODE_OF_CONDUCT.md). We aim to maintain a respectful and welcoming environment for everyone.
+All contributors and community members must follow our [Code of Conduct](../CODE_OF_CONDUCT.md). We aim to maintain a respectful and welcoming environment for everyone.
 
 ---
 
