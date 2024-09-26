@@ -1,4 +1,6 @@
-# <img src="https://s3.dynatrisoft.com/assets/logo/red.png" alt="DynatriSoft Logo" width="32" height="32"> DynatriSoft Games - Open Source Projects
+<img src="https://github.com/DynatriSoft/.github/blob/c2d4df7a8fbba6046fb392698a51c36be14dd25d/assets/banner.png">
+
+# <img src="https://github.com/DynatriSoft/.github/blob/b563f2792e1055b4b00d660acf170c35649bce54/assets/logo.png" alt="DynatriSoft Logo" width="32" height="32"> DynatriSoft Games - Open Source Projects
 
 Welcome to the official open-source project repository of **DynatriSoft Games**! 🚀
 
@@ -20,8 +22,6 @@ Welcome to the official open-source project repository of **DynatriSoft Games**!
 
 The **Open-Source Software Division** of DynatriSoft Games is responsible for managing, maintaining, and evolving all open-source projects available in this repository. Our team is made up of experienced and passionate developers who are always eager to collaborate and assist other developers in the community.
 
-![Team](https://yourimagelink.com/team.png)
-
 ---
 
 ## 📂 Projects
@@ -31,8 +31,6 @@ Here you'll find a variety of projects, from game engines and development tools 
 ### 🔥 Featured Projects:
 
 > **Coming Soon**
-
-![Projects](https://yourimagelink.com/projects.png)
 
 Explore our repositories to learn more about each one!
 
@@ -84,5 +82,3 @@ If you have any questions, or suggestions, or need support, feel free to reach o
 ---
 
 **DynatriSoft Games** - Elevating creativity and innovation in development to new heights.
-
-![Footer Image](https://yourimagelink.com/footer.png)
