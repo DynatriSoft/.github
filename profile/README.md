@@ -9,7 +9,7 @@
   </a>
 
   <a href="https://dynatrisoft.com" target="_blank"> 
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=2Fdynatrisoft.2Fdynatrisoft" alt="Visitors" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=dynatrisoft.dynatrisoft" alt="Visitors" />
   </a>
   
   ---
