@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://dynatrisoft.com" target="_blank">
-    <img src="https://arweave.net/JqJfCW7yqQniceb39sr-84QXJ-PQFnBariQu-RohV0E" alt="Banner" />
+    <img src="https://arweave.net/8-fY9mJxhG1ldYzB9D5LD6L5PQQ9vdQeRiwnIPpiJSM" alt="Banner" />
   </a>
 
   <a href="https://dynatrisoft.com" target="_blank">
